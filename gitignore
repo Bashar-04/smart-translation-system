@@ -1,0 +1,13 @@
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# IDE configs
+.idea/
+
+# Argos models (excluded from repo to reduce size and keep repo clean)
+ln/*.argosmodel
+
+# Environment files
+.env
